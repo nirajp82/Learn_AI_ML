@@ -1,31 +1,30 @@
 ### Beginner Level (Foundations): (4-6 months)
+1. **Introduction to Python:** (Choose one:)
+- Course: Codecademy's "Learn Python" or Coursera's "Python for Everybody" by University of Michigan.
+- Coursera: Learn Python Programming: [https://www.coursera.org/learn/python](https://www.coursera.org/learn/python)
+- Codecademy: Learn Python 3: [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
 
-	1. **Introduction to Python:** (Choose one:)
-	   - Course: Codecademy's "Learn Python" or Coursera's "Python for Everybody" by University of Michigan.
-	   - Coursera: Learn Python Programming: [https://www.coursera.org/learn/python](https://www.coursera.org/learn/python)
-	   - Codecademy: Learn Python 3: [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
+2. **Basic Mathematics and Statistics:** 
+- Course: Khan Academy's "Statistics and Probability" to build a strong foundation.
+- Course: Khan Academy: Multivariable Calculus: [https://www.khanacademy.org/math/multivariable-calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- Course: 3Blue1Brown: Essence of Linear Algebra: [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-	2. **Basic Mathematics and Statistics:** 
-	   - Course: Khan Academy's "Statistics and Probability" to build a strong foundation.
-	   - Course: Khan Academy: Multivariable Calculus: [https://www.khanacademy.org/math/multivariable-calculus](https://www.khanacademy.org/math/multivariable-calculus)
-	   - Course: 3Blue1Brown: Essence of Linear Algebra: [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+3. **Introduction to Machine Learning:** (Choose one:)
+- Course: Coursera's "Machine Learning" by Andrew Ng. This classic course provides a solid understanding of the fundamentals of machine learning.
+- Course: Microsoft AI for Everyone Specialization: [https://www.coursera.org/learn/ai-for-everyone](https://www.coursera.org/learn/ai-for-everyone)
+- Course: Machine Learning Crash Course with Google: [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
+- Course: AI Fundamentals by fast.ai: [https://www.fast.ai/](https://www.fast.ai/)
 
-	3. **Introduction to Machine Learning:** (Choose one:)
-	   - Course: Coursera's "Machine Learning" by Andrew Ng. This classic course provides a solid understanding of the fundamentals of machine learning.
-	   - Course: Microsoft AI for Everyone Specialization: [https://www.coursera.org/learn/ai-for-everyone](https://www.coursera.org/learn/ai-for-everyone)
-	   - Course: Machine Learning Crash Course with Google: [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
-	   - Course: AI Fundamentals by fast.ai: [https://www.fast.ai/](https://www.fast.ai/)
+4. **Python for Data Science:**
+- Course: edX's "Introduction to Data Science using Python" or DataCamp's "Introduction to Python for Data Science."
 
-	4. **Python for Data Science:**
-	   - Course: edX's "Introduction to Data Science using Python" or DataCamp's "Introduction to Python for Data Science."
-	   
-	   While not strictly required, understanding data science offers significant benefits when learning AI and ML.
-	   
-	   For in-depth work and real-world applications: A solid foundation in data science becomes increasingly valuable to build robust and effective AI/ML systems.
-	   
-	   Start with introductory AI/ML courses to understand the core concepts. As you progress, don't hesitate to delve into data science if you feel drawn to the deeper aspects of data analysis and interpretation. You can learn both fields concurrently or prioritize gaining basic AI/ML skills first.
-	   
-	   Remember, the key is to be curious, experiment, and keep learning. Regardless of your starting point, the journey into AI/ML can be fascinating and rewarding!
+While not strictly required, understanding data science offers significant benefits when learning AI and ML.
+
+For in-depth work and real-world applications: A solid foundation in data science becomes increasingly valuable to build robust and effective AI/ML systems.
+
+Start with introductory AI/ML courses to understand the core concepts. As you progress, don't hesitate to delve into data science if you feel drawn to the deeper aspects of data analysis and interpretation. You can learn both fields concurrently or prioritize gaining basic AI/ML skills first.
+
+Remember, the key is to be curious, experiment, and keep learning. Regardless of your starting point, the journey into AI/ML can be fascinating and rewarding!
 
 ### Intermediate Level (Hands-On Learning): (6-8 months)
 1. **Data Manipulation and Visualization:**
