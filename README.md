@@ -1,4 +1,4 @@
-Perfect — I can create a **week-by-week 12-month AI/ML roadmap** based on the first detailed roadmap, keeping **each course separate**, with **author/instructor and platform info**, plus weekly project/checkpoint guidance. I’ll assume a **part-time pace of \~10–15 hrs/week** (so \~48 weeks). Here’s the structured plan:
+Assuming a **part-time pace of \~10–15 hrs/week** (so \~48 weeks). Here’s the structured plan:
 
 ---
 
