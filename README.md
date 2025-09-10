@@ -67,11 +67,3 @@
 * Optional: Participate in Kaggle or Hugging Face competitions for **applied challenges**.
 
 ---
-
-This roadmap is now **week-by-week, focused, hands-on**, and designed to avoid boredom while still progressing to **LLMs, agents, and production-grade AI systems**.
-
----
-
-If you want, I can **also create a version with even more granular daily checkpoints for the first 4–6 weeks**, so you can **start immediately without decision fatigue**.
-
-Do you want me to do that next?
