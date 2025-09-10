@@ -165,9 +165,3 @@ Assuming a **part-time pace of \~10–15 hrs/week** (so \~48 weeks). Here’s th
 * 10–15 hrs/week (part-time), 48 weeks total
 * Each course or resource kept **separate per week**
 * Weekly **project/checkpoint** ensures practical learning
-
----
-
-If you want, I can also **turn this into a visual calendar** (like a table with weeks on one axis and tasks/courses/projects laid out), so it’s easier to **track progress week-by-week**.
-
-Do you want me to do that next?
