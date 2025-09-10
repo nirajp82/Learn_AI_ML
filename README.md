@@ -1,4 +1,3 @@
-```markdown
 # Senior AI/ML Developer Roadmap (48 Weeks)
 
 Designed for experienced developers (~18 years) to become **Senior AI/ML developers**.  
